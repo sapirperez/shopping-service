@@ -11,6 +11,16 @@ This project implements a shopping spplication service using Nestjs.
 • Buying products
 • Getting statistics.
 
+## Installation
+
+clone the repository:
+
+```sh
+git clone https://github.com/sapirperez/shopping-service
+
+cd shopping-service
+```
+
 ## Project setup
 
 ```bash
